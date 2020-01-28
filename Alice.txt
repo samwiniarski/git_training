@@ -1,3 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-The second line has changed.
-I've added some more text.
+This will be stashed.
